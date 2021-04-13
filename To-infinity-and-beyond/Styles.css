@@ -1,0 +1,53 @@
+
+
+#HOLI{
+    background: lemonchiffon;
+}
+
+header, footer{
+    background: deeppink;
+    color:rgb(231, 226, 226);
+    padding-left: 15px;
+    text-align: left;
+    padding-bottom: 0.0124px;
+}
+nav{
+    padding-top: 0px;
+    text-align: left;
+}
+ul{
+    padding-left: 0px;
+}
+
+.menu li{
+    display:inline-block;
+    list-style: none;
+}
+
+.cabecera h1{
+    font-size: 35px;
+    font-family:Verdana;
+    font-weight: bolder;
+    text-align: left;
+}
+
+h2{
+    font-style:italic;
+    font: bold 20px ;
+}
+
+body{
+    text-align:center;
+}
+
+.agrupar {
+    width: 960px;
+    margin: 100px auto;
+    background:rgb(224, 169, 169);
+}
+
+blockquote[cite]{
+    background: rgb(228, 218, 215);
+}
+
+
