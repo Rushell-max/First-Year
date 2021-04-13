@@ -1,0 +1,55 @@
+Los colores primarios son amarillo, rojo y azul”.
+
+En realidad los colores primarios en el sistema de color sustractivo
+(es decir, usando pigmentos) son cian, magenta y amarillo.
+En un sentido amplio podemos considerar “rojo” al magenta
+(que es un fucsia oscuro), y el cian es realmente un azul
+(azul celeste o azul ceruleo). Pero en las escuelas usan el
+rojo sangre y el azul ultramar o incluso un azul más oscuro
+como colores primarios, y no lo son.
+
+Estos son los colores que deberian enseñar en las escuelas
+como colores primarios:
+
+¿Por que no son primarios los pigmentos rojo y azul?
+
+El rojo y el azul ultramar en realidad son colores secundarios.
+El primero mezcla de magenta y amarillo a partes iguales,
+y el segundo mezcla de azul cian con algo de magenta.
+Si ese rojo y ese azul se pueden obtener mezclando otros dos colores,
+por definicion no pueden ser primarios.
+
+Además, si mezclamos pigmentos amarillo y azul ultramar no
+conseguimos un verde brillante sino un color sucio.
+Y si mezclamos pigmentos rojo y azul ultramar, en vez de un
+azul cobalto brillante obtenemos un color azul marino oscurecido.
+Estos colores son terciarios o intermedios pues tienen mezcla de
+los tres colores primarios.
+
+He preparado un esquema en el que se puede comparar el modelo
+tradicional “rojo, amarillo y azul” (o RYB por sus siglas en ingles)
+con el actual modelo de colores primarios CMY (de las siglas en ingles
+cyan, magenta, yellow):
+
+Como se puede ver en el modelo CMY, el rojo se obtiene de la
+mezcla de amarillo y magenta, y el azul oscuro de la mezcla de
+magenta y azul cian.
+
+Con el modelo tradicional no hay manera de obtener azul cian
+y magenta a partir de otros colores… por tanto estos son los
+verdaderos primarios. Y no, mezclar rojo y azul ultrama
+con blanco no da como resultado magenta y cian.
+
+A la izquierda los verdaderos magenta y cian, y
+a su derecha rojo y azul ultramar con diferentes cantidades
+de blanco añadido. En ningún caso se obtienen los colores primarios
+magenta y cian, sino diferentes colores salmón y azul pálido.
+
+Es decir, la gama de colores que se puede obtener con
+este modelo tradicional es mas limitada que con el modelo CMY.
+
+¿Por qué se enseña el modelo tradicional, si está superado?
+
+El modelo tradicional no surge de la nada sino que tiene
+siglos de uso. Artistas e intelectuales como Leonardo da Vinci o
+Goethe teorizaron sobre los colores primarios.
