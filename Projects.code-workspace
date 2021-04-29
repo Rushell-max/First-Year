@@ -10,7 +10,10 @@
 			"path": "To-infinity-and-beyond"
 		},
 		{
-			"path": "Laboratorio_CC_II"
+			"path": "..\\S3\\Laboratorio_CC_II"
+		},
+		{
+			"path": "..\\S3\\Laboratorio_DBP"
 		}
 	],
 	"settings": {
