@@ -92,7 +92,10 @@
 			"typeindex": "cpp",
 			"typeinfo": "cpp",
 			"valarray": "cpp"
-		}
+		},
+		"java.project.sourcePaths": [
+			""
+		]
 	},
 	"launch": {
 		"version": "0.2.0",
